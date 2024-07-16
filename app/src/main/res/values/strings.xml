@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Storyland</string>
+
+    <string name="create_story_title">Nueva Historia</string>
+
+    <string name="permissions_title">Permisos Requeridos</string>
+    <string name="permissions_description">Esta aplicación necesita que permita los permisos para poder usar Bluetooth. ¿Los puede permitir?</string>
+
+    <string name="welcome_title">¡Bienvenido!</string>
+    <string name="welcome_subtitle">Introduzca su nombre y ajuste la voz para tener una experiencia personalizada</string>
+
+    <string name="dialog_positive">Si</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_continue">Continuar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+    <string name="search_devices">Buscar Dispositivos</string>
+    <string name="cancel_search">Cancelar Búsqueda</string>
+
+    <string name="start_name">Comienzo</string>
+    <string name="talk_name">Hablar</string>
+    <string name="shake_name">Agitar</string>
+    <string name="wait_name">Esperar</string>
+    <string name="decision_name">Decisión</string>
+    <string name="continue_name">Continuar</string>
+    <string name="finish_name">Final</string>
+
+    <string name="player_no">Jugador #%1$d</string>
+    <string name="player1_text">Jugador #1</string>
+    <string name="player2_text">Jugador #2</string>
+    <string name="player3_text">Jugador #3</string>
+    <string name="player_self">%1$s (Tú)</string>
+
+    <string name="two_player_text">Jugadores: 2</string>
+    <string name="name_text">Nombre</string>
+    <string name="pitch_text">Tono de Voz</string>
+    <string name="rate_text">Velocidad del Habla</string>
+    <string name="the_end_text">FIN</string>
+    <string name="verify_info_text">Verifica la información para comenzar</string>
+    <string name="waiting_info_text">Esperando al servidor...</string>
+    <string name="shake_phone_text">(Sacude el teléfono para continuar)</string>
+    <string name="wait_shake_text">(Espera que %1$s sacuda el teléfono)</string>
+    <string name="wait_decision_text">(Espera que %1$s decida)</string>
+    <string name="sync_info_text">Sincronizando...</string>
+    <string name="starting_info_text">Comenzando...</string>
+    <string name="player_voice_text">Esta será la voz que represente tu personaje</string>
+    <string name="title_in_use">Título en uso</string>
+
+    <string name="voice_no">Voz #%1$d</string>
+    <string name="voice_by_default">Por defecto</string>
+
+    <string name="create_room_button">Crear una Sala</string>
+    <string name="join_room_button">Unirse a una Sala</string>
+    <string name="create_story_button">Crear una Historia</string>
+    <string name="continue_button">Continuar</string>
+    <string name="add_button">Añadir</string>
+    <string name="ready_button">Listo para empezar</string>
+    <string name="discoverable_button">Hacer Visible</string>
+    <string name="done_button">Terminar Historia</string>
+
+    <string name="selected_story_dropdown">Historia Seleccionada</string>
+    <string name="selected_voice_dropdown">Voz Seleccionada</string>
+    <string name="action_dropdown">Acción</string>
+    <string name="player_dropdown">Jugador</string>
+
+    <string name="message_field">Mensaje</string>
+    <string name="option1_field">Opción 1</string>
+    <string name="option2_field">Opción 2</string>
+    <string name="title_field">Título</string>
+
+    <string name="error_bluetooth_not_supported">ERROR: El dispositivo no soporta Bluetooth</string>
+    <string name="error_bluetooth_denied">ERROR: El usuario deniega el acceso a Bluetooth</string>
+    <string name="error_permissions_denied">ERROR: El usuario deniega los permisos necesarios</string>
+    <string name="error_data_not_sent">ERROR: No se ha podido enviar los datos al otro dispositivo</string>
+    <string name="error_no_stories_detected">ERROR: No se han detectado historias en la base de datos</string>
+    <string name="error_content">ERROR: Ha ocurrido un error por nuestra parte</string>
+    <string name="error_ocurred">ERROR: Ha ocurrido un error, vuelva a intentarlo</string>
+    <string name="error_field_title_empty">Completa el campo título</string>
+    <string name="error_story_already_exists">Ya existe una historia con ese título</string>
+    <string name="error_no_name">Por favor, introduzca un nombre para continuar…</string>
+    <string name="error_no_spanish_tts">Si quiere la mejor experiencia, instale el lenguaje español en su TTS</string>
+    <string name="error_no_engine_tts">Si quiere la mejor experiencia, instale un motor TTS</string>
+    <string name="error_no_game_detected">No se ha detectado el juego en %1$s</string>
+    <string name="error_story_not_found">Historia no encontrada????</string>
+    <string name="error_connection_lost">Se ha perdido la conexión</string>
+    <string name="error_add_sequence">ERROR: no se ha podido añadir la secuencia a la lista</string>
+    <string name="error_received_story">Error en la historia recibida</string>
+    <string name="error_no_accelerometer">No se ha detectado Acelerómetro</string>
+</resources>
